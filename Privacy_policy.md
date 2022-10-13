@@ -1,4 +1,4 @@
-NFChecklist Privacy policy
+## NFChecklist Privacy policy
 
 Welcome to the Samoborček Vozni Red app for Android!
 

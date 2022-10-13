@@ -1,6 +1,6 @@
 ## NFChecklist Privacy policy
 
-Welcome to the Samoborček Vozni Red app for Android!
+Welcome to the NFChecklist app for Android!
 
 This is an Android app developed by Antonio Maletić. The app is also available on Google Play.
 
